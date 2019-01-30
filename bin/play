@@ -13,7 +13,6 @@ loop do
 play(board)
 counter += 1
 if counter >= 9
-  break 
+  break
  end
 end
-
